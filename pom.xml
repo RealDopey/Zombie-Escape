@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ZombieEscape</groupId>
   <artifactId>ZombieEscape</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1</version>
   <name>Zombie Escape</name>
   <description>Zombie Escape gamemode mimicing that of Counter Strike: Source</description>
   <build>
@@ -28,4 +28,11 @@
 	<url>scm:git:git@github.com:tobrien/git-demo.git</url>
 	<developerConnection>scm:git:git@github.com:tobrien/git-demo.git</developerConnection>
   </scm>
+  <dependencies>
+	<dependency>
+		<groupId>TestGroupID</groupId>
+		<artifactId>TestArtifactID</artifactId>
+		<version>1.0</version>
+	</dependency>
+</dependencies>
 </project>
