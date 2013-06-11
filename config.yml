@@ -1,0 +1,22 @@
+Countdown: 180
+MinPlayers: 4
+Maps:
+  - map1
+  - map2
+Locations:
+  Lobby: not set
+  map1:
+    Spawn: not set
+    EndMin: not set
+    EndMax: not set
+  map2:
+    Spawn: not set
+    EndMin: not set
+    EndMax: not set
+    
+Messages:
+  ReservedKicked: "Sorry! You were kicked so a donator could play!"
+  RestartingKick: "Server restarting for next match!"
+  Countdown: "Game will begin in {time}!"
+  MoreTime: "Not enough players! Countdown extended by one minute."
+  Map: "{map} has won the vote!"
